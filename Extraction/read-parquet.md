@@ -1,4 +1,4 @@
-Great question! If your file is a **Parquet** file instead of a CSV, you can use `pandas.read_parquet()` instead of `read_csv()`.
+If your file is a **Parquet** file instead of a CSV, you can use `pandas.read_parquet()` instead of `read_csv()`.
 
 ### ✅ Basic Syntax:
 
